@@ -6,19 +6,16 @@ namespace Opdracht1
 {
     class Boek : Product
     {
-        private string titel;
-        private string auteur;
-        private double prijs;
+        public string auteur;
 
         public Boek(string auteur, string titel, double prijs) : base(titel, prijs)
         {
             this.auteur = auteur;
         }
 
-        public void Print(Boek boek)
+        override public void Print()
         {
-            Console.WriteLine(String.Format("'{0}' by {1} for {2}", boek.titel, boek.auteur, boek.prijs));
-
+            Console.WriteLine(String.Format("[Book] '{0}' by {1} for {2}", titel, auteur, prijs));
         }
 
 

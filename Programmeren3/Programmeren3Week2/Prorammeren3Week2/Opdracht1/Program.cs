@@ -14,7 +14,8 @@ namespace Opdracht1
         {
             Boekhandel boekhandel = new Boekhandel();
 
-            boekhandel.VoegToe(new Boek("John Died In A Fire", "James Weird", 5.50));
+            boekhandel.VoegToe(new Boek("James Weird", "John Died In A Fire", 5.50));
+            boekhandel.VoegToe(new Tijdschrift("History for Losers", "5/2/1998", 3.00));
 
             boekhandel.PrintVoorraad();
         }

@@ -6,17 +6,18 @@ namespace Opdracht1
 {
     class Boekhandel
     {
-        List<Boek> boekenLijst = new List<Boek>();
+        List<Product> inventory = new List<Product>();
 
-        public void VoegToe(Boek boekToAdd)
+        public void VoegToe(Product productToAdd)
         {
-            this.boekenLijst.Add(boekToAdd);
+            this.inventory.Add(productToAdd);
         }
         public void PrintVoorraad()
         {
-            foreach (Boek boek in this.boekenLijst)
+
+            foreach (Product product in this.inventory)
             {
-                boek.Print(boek);
+                product.Print();
             }
         }
     }

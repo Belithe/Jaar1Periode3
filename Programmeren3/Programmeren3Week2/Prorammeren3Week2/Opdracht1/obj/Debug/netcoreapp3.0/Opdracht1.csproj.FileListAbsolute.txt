@@ -9,3 +9,14 @@ E:\School\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3W
 E:\School\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.AssemblyInfo.cs
 E:\School\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.dll
 E:\School\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.pdb
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.exe
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.deps.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.runtimeconfig.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.runtimeconfig.dev.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.dll
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\bin\Debug\netcoreapp3.0\Opdracht1.pdb
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.csprojAssemblyReference.cache
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.AssemblyInfoInputs.cache
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.AssemblyInfo.cs
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.dll
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week2\Prorammeren3Week2\Opdracht1\obj\Debug\netcoreapp3.0\Opdracht1.pdb

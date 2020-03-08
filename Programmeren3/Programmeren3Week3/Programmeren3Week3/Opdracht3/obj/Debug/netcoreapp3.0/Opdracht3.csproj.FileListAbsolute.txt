@@ -1,0 +1,11 @@
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.exe
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.deps.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.runtimeconfig.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.runtimeconfig.dev.json
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.dll
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\bin\Debug\netcoreapp3.0\Opdracht3.pdb
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\obj\Debug\netcoreapp3.0\Opdracht3.csprojAssemblyReference.cache
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\obj\Debug\netcoreapp3.0\Opdracht3.AssemblyInfoInputs.cache
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\obj\Debug\netcoreapp3.0\Opdracht3.AssemblyInfo.cs
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\obj\Debug\netcoreapp3.0\Opdracht3.dll
+D:\Documents\inHolland\Jaar1Periode3\Programmeren3\Programmeren3Week3\Programmeren3Week3\Opdracht3\obj\Debug\netcoreapp3.0\Opdracht3.pdb

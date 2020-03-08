@@ -6,16 +6,16 @@ namespace Opdracht1
 {
     class Boek : Product
     {
-        public string auteur;
+        public string Auteur { get; private set; }
 
-        public Boek(string auteur, string titel, double prijs) : base(titel, prijs)
+        public Boek(string auteur, string titel, double prijs, int count) : base(titel, prijs, count)
         {
-            this.auteur = auteur;
+            this.Auteur = auteur;
         }
 
         override public void Print()
         {
-            Console.WriteLine(String.Format("[Book] '{0}' by {1} for {2}", titel, auteur, prijs));
+            Console.WriteLine(String.Format("[Book] '{0}' by {1} for {2}", Titel, Auteur, TotaalPrijs));
         }
 
 

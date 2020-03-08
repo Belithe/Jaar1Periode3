@@ -6,15 +6,20 @@ namespace Opdracht1
 {
     class Tijdschrift : Product
     {
-        public string release;
-        public Tijdschrift(string release, string titel, double prijs) : base(titel, prijs)
+        private string release;
+        public string Release
         {
-            this.release = release;
+            get { return release; }
+            set { release = value; }
+        }
+        public Tijdschrift(string titel, string release, double prijs, int count) : base(titel, prijs, count)
+        {
+            this.Release = release;
         }
 
         override public void Print()
         {
-            Console.WriteLine(String.Format("[Magazine] '{0}' released on {1} for {2}", titel, release, prijs));
+            Console.WriteLine(String.Format("[Magazine] {0} released on {1} for {2}", Titel, Release, TotaalPrijs));
 
         }
     }

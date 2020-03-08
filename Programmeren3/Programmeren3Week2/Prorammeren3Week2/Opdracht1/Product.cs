@@ -6,13 +6,36 @@ namespace Opdracht1
 {
     class Product
     {
-        public string titel;
-        public double prijs;
-
-        public Product(string titel, double prijs)
+        private string titel;
+        private double prijs;
+        private int count;
+        public string Titel
         {
-            this.titel = titel;
-            this.prijs = prijs;
+            get { return titel; }
+            set { titel = value; }
+        }
+        public double Prijs
+        {
+            get { return prijs; }
+            set { prijs = value; }
+        }
+        
+        public int Count
+        {
+            get { return count; }
+            set { count = value; }
+        }
+
+        public double TotaalPrijs
+        {
+            get { return count * prijs; }
+        }
+
+        public Product(string titel, double prijs, int count)
+        {
+            this.Titel = titel;
+            this.Prijs = prijs;
+            Count = count;
         }
 
         virtual public void Print() {
